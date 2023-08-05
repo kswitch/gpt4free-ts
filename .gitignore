@@ -6,3 +6,5 @@ node_modules/
 .env
 run/
 ,
+.DS_Store
+.gitignore
